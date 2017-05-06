@@ -7,6 +7,8 @@ url: "" # the base hostname & protocol for your site
 
 twitter_username: Steelerecruitin
 facebook_username: steelerecruiting
+googleplus_username: https://plus.google.com/118125862156127637859
+linkedin_username: steelerecruiting
 
 # Build settings
 markdown: kramdown
